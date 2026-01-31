@@ -1,0 +1,7 @@
+
+===== REPOSITORY STRUCTURE =====
+
+.
+./mehdi_chakameh_git_activity.txt
+./README.md
+./.gitignore
